@@ -1,0 +1,1 @@
+# Single-byte XOR cipher
